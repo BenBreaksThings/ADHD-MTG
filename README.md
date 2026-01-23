@@ -1,4 +1,4 @@
-# ADHD Magic
+# ADHD MTG
 
 ## Purpose
 If reading the card explains the card, reading the card should be as easy as possible for such a complex game. Minimize noise/text/everything possible without altering a 1:1 representation of the card functionality/costs/triggers.
