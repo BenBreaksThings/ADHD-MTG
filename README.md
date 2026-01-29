@@ -1,7 +1,7 @@
-# Minimalist Magic
+# ADHD MTG
 
 ## Purpose
-If reading the card explains the card, reading the card should be as easy as possible for such a complex game. Minimize noise, minimize text, minimize everything possible without altering a 1:1 representation of the card functionality/costs/triggers.
+If reading the card explains the card, reading the card should be as easy as possible for such a complex game. Minimize noise/text/everything possible without altering a 1:1 representation of the card functionality/costs/triggers.
 
 ## Philosophy
 - No set symbols
@@ -20,7 +20,8 @@ If reading the card explains the card, reading the card should be as easy as pos
 Wanted to make the proxies feel like one large set all created at the same time. To that end, style choices consist of:  
 
 - Borders:
-  - 7th Edition card style where able  
+  - 7th Edition card style where able
+  - LTR Scrolls border for legendary for visual differentiation
 - Art:
   - Select recognizable, ideally classic art of a given card from Scryfall
   - Run chosen art through ChatGPT with a repeatable prompt to generate a black on white image with an artistic theme of comic inking  
